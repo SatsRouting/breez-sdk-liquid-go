@@ -2,7 +2,7 @@
 
 ## **Why this fork**
 
-This is a fork of original Breez SDK Liquid, that was built to bypass the decommissioned Boltz service for the same service provided by satsrouting.exchange platform. If you need to recovery the work that was running before on your platform or wallet, you can choose this library without any other change.
+This is a fork of original Breez SDK Liquid, that was built to bypass the decommissioned Boltz service for the same service provided by [satsrouting.exchange](https://satsrouting.exchange) platform. If you need to recovery the work that was running before on your platform or wallet, you can choose this library without any other change.
 
 To provide the best experience for their end-users, developers can choose between the following implementations:
 
