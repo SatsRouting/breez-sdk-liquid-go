@@ -1,8 +1,8 @@
 # Breez SDK - *Liquid*
 
-## **Overview**
+## **Why this fork**
 
-The Breez SDK provides developers with a end-to-end solution for integrating self-custodial Lightning payments into their apps and services. It eliminates the need for third-parties, simplifies the complexities of Bitcoin and Lightning, and enables seamless onboarding for billions of users to the future of peer-to-peer payments.
+This is a fork of original Breez SDK Liquid, that was built to bypass the decommissioned Boltz service for the same service provided by satsrouting.exchange platform. If you need to recovery the work that was running before on your platform or wallet, you can choose this library without any other change.
 
 To provide the best experience for their end-users, developers can choose between the following implementations:
 
